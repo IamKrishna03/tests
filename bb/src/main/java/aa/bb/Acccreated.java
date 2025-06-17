@@ -11,6 +11,7 @@ public class Acccreated {
 	Acccreated(WebDriver driver){
 		this.driver=driver;
 		acccreatedele();
+		System.out.println("check update added");
 	}
 	
 	 void verifytitle(String exptitle) {
